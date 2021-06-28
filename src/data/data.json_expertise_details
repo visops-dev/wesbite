@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "A product engineering and design services company",
+        "paragraph": "IoT, IIoT, Networking and 5G, Machine Vision, AI and ML, Cloud Computing and Mobile Apps..."
+
+    },
+    "About": {
+        "paragraph": "Technology savvy folks who firmly believes in producing artefacts which shall add value and thereby a sense of delight for our customers. ",
+        "Why": [
+            "Technology in our DNA",
+            "Decades of expertise",
+            "Pragmatic mindset",
+            "Never give up attitude"
+        ],
+        "Why2": [
+            "Proven track record",
+            "Result oriented",
+            "Learn from our failures",
+            "Never compromise on quality"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-cogs",
+            "name": "Product Engineering",
+            "text": "- IoT/IIoT Devices, Sensors, Gateways\n- Network Devices, Routers, Switches\n- 5G Radio Unit, RRH, Macrocell\n- 5G DU/CU Server"
+        },
+        {
+            "icon": "fa fa-microchip",
+            "name": "Embedded Hardware Design",
+            "text": "- High Speed DigtalDesign\n- Schematic Design, Board Layout\n- RF and Antenna Design\n- SI/PI/Thermal Analysis"
+        },
+        {
+            "icon": "fa fa-code",
+            "name": "Embedded Software Design",
+            "text": "- Embdedded Linux Developement\n- RTOS and Baremetal Development\n- Device Drivers and BSP Development\n- Boot Loader and Kernel Porting "
+        },
+        {
+            "icon": "fa fa-adn",
+            "name": "Application Software",
+            "text": "- Scalable Web Applications\n- Native Mobile Aplications\n- Cloud Backend Services\n- Desktop Applications"
+        },
+        {
+            "icon": "fa fa-object-group",
+            "name": "UI/UX Design",
+            "text": "- UI Designing\n- UI Prototyping\n- UI MockUps\n- Users Flows, Wireframes"
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Resource/Staff Augmentation",
+            "text": "- Competent Resource Pool\n- Project and Time Based Association\n- Onsite/Offsite Association\n- Longterm Resource Commitment"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "G 227 UG, Sushant Arcade, Shushant Lok Phase 1, Gurugram - 122002, Haryana - INDIA",
+        "phone": "+1 123 456 1234",
+        "email": "info@visops.tech",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-cogs",
+            "title": "Product Engineering",
+            "text": "- Product Ideation and Conceptulization\n- Product Architecture\n- Product Design\n- Prototype Development\n- Hardware Design \n- RF and Antenna Design\n- Power System Design\n- SI/PI/Thermal Analysis\n- ID and Enclosure Design\n- Quality Assurance"
+        },
+        {
+            "icon": "fa fa-code",
+            "title": "Software Devlopement",
+            "text": "- Embedded Software\n- Embedded Linux\n- RTOS Developement\n - FPGA Development\n- Application Software\n- Web Applications\n- Cloud Backend Services\n- Mobile Applications\n- Desktop Application\n- DevOps: CI/CD\n- Polyglot"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Machine Vision and AI/ML",
+            "text": "- Object Detection and Classification\n- Model Generation and Training\n- Image/Video Processing\n- Speech Recognition\n- Audio Fingerprinting\n- Natural Language Processing\n- Text Extraction and Analytics\n- Predictive Analytics\n- OCR, Tesseract\n- Edge Analytics\n- VMS"
+        },
+        {
+            "icon": "fa fa-object-group",
+            "title": "UI/UX",
+            "text": "- UI Designing\n- UI Prototyping\n- UI Mockups\n- User Flows, Wireframes\n- UI Interactions\n- UI Animations\n- Iconography\n- Typography\n- Sketch, Photoshop\n- Figma, Zeplin"
+        }
+    ]
+}
